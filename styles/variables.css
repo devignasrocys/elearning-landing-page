@@ -1,0 +1,18 @@
+:root {
+    /* COLORS */
+    --gray-blue: #666ca3;
+    --dark-blue: #13183f;
+    --gray: #83869a;
+    --purple: #f74780;
+    --light-purple: #ffa7c3;
+    --white: #fff;
+    --gradient-orange-purple: linear-gradient(#f02aa6, #ff6f48);
+    --gradient-blue-purple: linear-gradient(#4851ff, #f02aa6);
+    /* FONTS */
+    --heading-xl: 56px;
+    --heading-l: 40px;
+    --heading-m: 32px;
+    --heading-s: 24px;
+    --body-m: 18px;
+    --body-s: 16px;
+}
